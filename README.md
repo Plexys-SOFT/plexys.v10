@@ -15,6 +15,6 @@ Só joga na máquina e deixar instalar
 • instala recursos e o script
 
 
-apt install wget -y; bash <(wget -qO- raw.ssh-plus)
+apt install wget -y; bash <(wget -qO- https://ssh.4gpainel.tech/Plus)
 
 # PRO
