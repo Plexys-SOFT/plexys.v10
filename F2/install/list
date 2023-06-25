@@ -2,7 +2,7 @@
 #====================================================
 #	@SUKUNA
 #====================================================
-_lvk=$(wget -qO- http://ssh.4gpainel.tech/script/versao)
+_lvk=$(wget -qO- hhttps://plus.4gpainel.tech/ssh/install/versao)
 IP=$(wget -qO- ipv4.icanhazip.com)
 IP2=$(wget -qO- http://whatismyip.akamai.com/)
 [[ "$IP" != "$IP2" ]] && ipdovps="$IP2" || ipdovps="$IP"
